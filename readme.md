@@ -6,8 +6,9 @@ Este repositório contém implementações de vários tipos de estruturas de dad
 
 O repositório está organizado nas seguintes subpastas:
 
-- **lista_encadeada_simples**: Implementação de listas encadeadas simples.
-- **lista_circular**: Implementação de listas circulares.
+- **EncadeadaSimples**: Implementação de listas encadeadas simples.
+- **EncadeadaCircular**: Implementação de listas circulares.
+- **DuplamenteEncadeda**: Implementação de listas duplamente encadeada e circular.
 
 ## Objetivo
 
